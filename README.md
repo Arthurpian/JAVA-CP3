@@ -1,6 +1,7 @@
+# Arthur Bessa Pian / RM 99215
+
 # Click Shop - API de Suporte Técnico
 
-# Arthur Bessa Pian / RM 99215
 
 Esta é uma API RESTful para o módulo de Suporte Técnico da "Click Shop". O projeto simula um sistema de gerenciamento de ocorrências (solicitações de suporte).
 
